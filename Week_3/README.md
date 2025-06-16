@@ -13,7 +13,7 @@ Mỗi lần máy tính khởi động lại, địa chỉ của các DLL trong b
 
 IAT Hooking chỉ ảnh hưởng đến một module, tức là nếu hook `MessageBoxA` trong IAT của `main.exe`, chỉ `main.exe` bị ảnh hưởng, các DLL khác không bị ảnh hưởng
 
-Cả IAT và EAT Hooking chỉ ảnh hưởng đến process hiện tại, không ảnh hưởng đến toàn bộ hệ thống hoặc các process khác
+IAT Hooking chỉ ảnh hưởng đến process hiện tại, không ảnh hưởng đến toàn bộ hệ thống hoặc các process khác
 ```
        [Import Address Table (IAT)]
        +----------------------------+
